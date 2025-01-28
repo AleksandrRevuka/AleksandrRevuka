@@ -24,7 +24,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=plastic&logo=jupyter&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=plastic&logo=openai&logoColor=white)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merienda&duration=9195&pause=1000&color=F7010080&width=375&repeat=true&lines=Learning+Languages+and+Frameworks%3A)](https://git.io/typing-svg)<p align="left"> 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merienda&duration=9300&pause=1000&color=F7010080&width=375&repeat=true&lines=Learning+Languages+and+Frameworks%3A)](https://git.io/typing-svg)<p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" alt="python" width="120" height="45"/> </a> 
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="http://res.cloudinary.com/dm4wlqihl/image/upload/v1691423532/pictures/wytuvl8ow7wx5f2taavm.png" alt="fastapi" width="120" height="45"/> </a> 
 <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="django" width="120" height="45"/> </a> 
