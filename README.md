@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Merienda&pause=1000&color=F7010080&multiline=true&repeat=false&width=513&height=91&lines=I'm+Revuka+Oleksandr%2C+a+Python+Backend+Developer.;Technologies%3A)](https://git.io/typing-svg)
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white)
