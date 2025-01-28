@@ -26,8 +26,8 @@
 ### ⚡ Learning Languages and Frameworks:
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" alt="python" width="120" height="45"/> </a> 
-<a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="django" width="120" height="45"/> </a> 
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="http://res.cloudinary.com/dm4wlqihl/image/upload/v1691423532/pictures/wytuvl8ow7wx5f2taavm.png" alt="fastapi" width="120" height="45"/> </a> 
+<a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="django" width="120" height="45"/> </a> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1920px-Pandas_logo.svg.png" alt="Pandas" width="120" height="60"/> </a> 
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1920px-NumPy_logo_2020.svg.png" alt="NumPy" width="120" height="60"/> </a> 
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/1280px-TensorFlow_logo.svg.png" alt="TensorFlow" width="120" height="60"/> </a> 
