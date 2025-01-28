@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7C500&pause=2000&weight=700&lines=Hello!+I'm+Revuka+Oleksandr,+Python+Dev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merienda&pause=1000&color=F7010080&width=435&lines=I'm+Revuka+Oleksandr%2C+Python+Dev)](https://git.io/typing-svg)
 ### ⚡ Technologies:
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
